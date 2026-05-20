@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://randomsurprise.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.random-surprise.online';
 
 export const metadata: Metadata = {
   title: 'About Random Surprise - Learn About Our Curation Process',

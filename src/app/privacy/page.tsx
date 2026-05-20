@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Footer from '@/components/Footer';
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://randomsurprise.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.random-surprise.online';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy - Data Protection and Privacy Practices',
@@ -148,7 +148,7 @@ export default function Privacy() {
               <h2 className="text-xl font-semibold text-white mb-4">Contact Us</h2>
               <p className="text-gray-300 leading-relaxed">
                 If you have any questions about this Privacy Policy, please contact us at 
-                privacy@randomsurprise.com.
+                support@random-surprise.online.
               </p>
             </div>
           </div>

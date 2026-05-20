@@ -12,7 +12,7 @@ const inter = Inter({
   fallback: ['system-ui', 'sans-serif'],
 });
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://randomsurprise.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.random-surprise.online/';
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
