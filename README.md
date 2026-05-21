@@ -9,7 +9,7 @@ Discover random websites with just one click! A fun and exciting way to explore 
 - **Visit History**: Keep track of your recent discoveries
 - **Stats Page**: View your browsing statistics
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
-- **Safe & Curated**: All websites are hand-picked and safe to visit
+- **Curated Selection**: All websites are hand-picked and reviewed for quality
 
 ## 🛠 Tech Stack
 

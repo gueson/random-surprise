@@ -49,7 +49,7 @@ export default function About() {
           <div className="glass-effect p-6 rounded-2xl">
             <div className="text-4xl mb-4">🔮</div>
             <h2 className="text-lg font-semibold text-white mb-2">Curated Content</h2>
-            <p className="text-sm text-gray-400">All websites are carefully reviewed and approved to ensure quality and safety.</p>
+            <p className="text-sm text-gray-400">All websites are carefully reviewed and curated to maintain our quality standards. However, we cannot guarantee the continued availability or content of external sites.</p>
           </div>
           
           <div className="glass-effect p-6 rounded-2xl">
