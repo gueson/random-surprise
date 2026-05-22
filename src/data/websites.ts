@@ -232,6 +232,7 @@ export const websites: Website[] = [
   { id: '175', url: 'https://remoji.com/', name: 'Remoji', category: 'fun', isApproved: true, description: 'Reaction emoji site' },
   { id: '176', url: 'https://musical.toys/toys/pendulum-waves/', name: 'Pendulum Waves', category: 'fun', isApproved: true, description: 'Mesmerizing pendulum animation' },
   { id: '177', url: 'https://musical.toys', name: 'Musical Toys', category: 'fun', isApproved: true, description: 'Collection of musical toys' },
+  { id: '178', url: 'https://www.boredbutton.com/', name: 'Bored Button', category: 'fun', isApproved: true, description: 'Press the button when you are bored' },
 ];
 
 export const getApprovedWebsites = (): Website[] => {
